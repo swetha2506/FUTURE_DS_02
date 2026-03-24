@@ -1,2 +1,46 @@
-# FUTURE_DS_02
-Customer Retention &amp; Churn Analysis using Power BI
+Customer Retention & Churn Analysis Dashboard
+🚀 Project Overview
+This project analyzes customer churn behavior in a telecom dataset using Power BI. The aim is to identify patterns in customer retention and provide actionable insights to reduce churn.
+This project was completed as part of Future Interns Data Science & Analytics Task 2.
+
+🎯 Objectives
+Analyze churn trends
+Identify high-risk customers
+Understand customer lifetime patterns
+Provide business recommendations
+🛠️ Tools Used
+Microsoft Excel (Data Cleaning)
+Power BI (Dashboard & Visualization)
+📊 Dashboard Features
+🔹 KPIs
+Total Customers
+Churned Customers
+Churn Rate
+Avg Monthly Charges
+🔹 Visualizations
+Churn by Contract Type
+Payment Method Distribution
+Customer Distribution by Tenure Group
+Average Monthly Charges by Churn
+🔹 Filters (Slicers)
+Contract
+Gender
+Internet Service
+Payment Method
+🔍 Key Insights
+Month-to-month contract customers have the highest churn
+New customers (0–12 months) churn more
+Electronic check users show higher churn
+Higher charges lead to higher churn
+💡 Recommendations
+Encourage long-term subscriptions
+Improve onboarding experience
+Promote automatic payments
+Provide targeted offers
+
+📂 Files Included
+Power BI Dashboard (.pbix)
+Dashboard PDF
+Screenshot
+📢 Conclusion
+This project demonstrates how data analytics can help reduce churn and improve retention in telecom businesses.
