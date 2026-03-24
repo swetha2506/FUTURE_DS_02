@@ -11,8 +11,8 @@ Understand customer lifetime patterns
 Provide business recommendations
 
 **Tools Used**:
-Microsoft Excel (Data Cleaning)
-Power BI (Dashboard & Visualization)
+Power BI (Dashboard & Visualization),Microsoft Excel (Data Cleaning)
+
 
 **Key Insights**:
 Month-to-month contract customers have the highest churn
@@ -27,9 +27,10 @@ Promote automatic payments
 Provide targeted offers
 
 **Files Included**:
-Power BI Dashboard (.pbix)
-Dashboard PDF
-Screenshot
+Power BI Dashboard (.pbix),
+Dashboard PDF,
+Screenshot,
+dataset 
 
 **Conclusion**:
 This project demonstrates how data analytics can help reduce churn and improve retention in telecom businesses.
