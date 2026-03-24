@@ -1,4 +1,5 @@
 **Customer Retention & Churn Analysis Dashboard**
+
 **Project Overview**:
 This project analyzes customer churn behavior in a telecom dataset using Power BI. The aim is to identify patterns in customer retention and provide actionable insights to reduce churn.
 This project was completed as part of Future Interns Data Science & Analytics Task 2.
@@ -8,6 +9,7 @@ Analyze churn trends
 Identify high-risk customers
 Understand customer lifetime patterns
 Provide business recommendations
+
 **Tools Used**:
 Microsoft Excel (Data Cleaning)
 Power BI (Dashboard & Visualization)
@@ -28,5 +30,6 @@ Provide targeted offers
 Power BI Dashboard (.pbix)
 Dashboard PDF
 Screenshot
+
 **Conclusion**:
 This project demonstrates how data analytics can help reduce churn and improve retention in telecom businesses.
